@@ -6,14 +6,16 @@
 		"@testing-library/jest-dom": "^5.16.2",
 		"@testing-library/react": "^12.1.4",
 		"@testing-library/user-event": "^13.5.0",
-		"algosdk": "^1.14.0",
+		"algosdk": "^1.15.0",
 		"buffer": "^6.0.3",
 		"crypto-browserify": "^3.12.0",
+		"crypto-js": "^4.1.1",
 		"react": "^17.0.2",
 		"react-dom": "^17.0.2",
 		"react-scripts": "5.0.0",
 		"stream": "^0.0.2",
-		"web-vitals": "^2.1.4"
+		"web-vitals": "^2.1.4",
+		"webpack": "^5.71.0"
 	},
 	"scripts": {
 		"start": "react-scripts start",
@@ -38,5 +40,8 @@
 			"last 1 firefox version",
 			"last 1 safari version"
 		]
+	},
+	"devDependencies": {
+		"webpack-cli": "^4.9.2"
 	}
 }

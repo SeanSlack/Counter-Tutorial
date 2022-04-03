@@ -5,9 +5,9 @@ import approval from "./contracts/approval";
 import clear from "./contracts/clear";
 
 const creatorMnemonic =
-	"spell cry quit border inflict drastic worry butter hip obey since coffee stage speak alcohol excess six blur ticket stand party fury kite above choose";
+	"panda upset appear excess senior sunny dash pluck sand essence knife receive better category cloud bar purchase duck favorite illness still hope thing able acid";
 const userMnemonic =
-	"wall outdoor there pipe senior exotic reunion memory federal trouble dinner dwarf any shoot finish universe deputy citizen ski dragon direct wait steak above dial";
+	"remain buzz merge spend cradle urban front asset mail noble frown intact pear time family please disorder staff zone print alley answer almost about fog";
 
 // user declared algod connection parameters
 const algodAddress = "http://localhost:4001";
